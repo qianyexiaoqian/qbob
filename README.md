@@ -183,8 +183,3 @@ async def avatar_url(bot, user_id, size: int = 640) -> str:
 
   AstrBot、Yunzai、gsuid_core 各框架的改法见[头像适配](docs/avatar.md)。
 
-## 许可
-
-始于 2026-08-12。
-
-[AGPL-3.0](LICENSE)
